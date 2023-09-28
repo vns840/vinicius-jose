@@ -7,13 +7,13 @@ export default function Menu(){
         </a>
         <ul className="flex gap-2">
           <li>
-            <a href="">serviços</a>
+            <a href="#servicos">serviços</a>
           </li>
           <li>
-            <a href="">projetos</a>
+            <a href="#projetos">projetos</a>
           </li>
           <li>
-            <a href="">sobre min</a>
+            <a href="#sobre">sobre min</a>
           </li>
           <li>
             <a href="#contato">Contato</a>
