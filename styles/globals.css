@@ -9,9 +9,9 @@
   width: 100%;
   height: 70px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  background: #fff;
   z-index: 10;
   position: fixed;
+  text-transform: capitalize;
 }
 section{
   height: 100vh;
