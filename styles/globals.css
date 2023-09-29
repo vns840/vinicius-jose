@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+body{
+  background: #f8f8f8;
+}
 .main-menu {
   position: absolute;
   top: 0;
