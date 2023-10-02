@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Servicos(){
   return(
     <section className="" id="servicos">
-      <h2 className="text-center">Serviços</h2>
+      <h2 className="text-center font-bold text-5xl	mt-2">Serviços</h2>
      <div className="flex items-center justify-center">
      <div className="text-left justify-start">
         <h3>serviços oferecidos</h3>
