@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function SobreMIn(){
   return(
-    <section id="sobre">
+    <section className="bg-purple01 text-white" id="sobre">
       <h2 className="text-center font-bold text-5xl	mt-2 mb-11">Sobre Min</h2>
       <div className="flex justify-center items-center gap-8">
         <div>

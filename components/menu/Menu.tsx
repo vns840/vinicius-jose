@@ -1,7 +1,7 @@
 export default function Menu(){
   return(
     <header>
-      <nav className="main-menu flex justify-between items-center px-[35px] bg-white">
+      <nav className="main-menu flex justify-between items-center text-white px-[35px] bg-purple02 shadow-lg shadow-purple01/40">
         <a href="#hero" >
           logo
         </a>

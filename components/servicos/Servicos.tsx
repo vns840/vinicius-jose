@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Servicos(){
   return(
-    <section className="" id="servicos">
+    <section className="bg-purple01 text-white" id="servicos">
       <h2 className="text-center font-bold text-5xl	mt-2">Serviços</h2>
      <div className="flex items-center justify-center">
      <div className="text-left justify-start">

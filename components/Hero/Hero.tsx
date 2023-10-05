@@ -7,7 +7,7 @@ export default function Hero(){
       <Image src="/images/programming-hero.svg" width={500} height={500} alt="" />
      </div>
      <div className="text-center justify-end">
-      <h1 className="font-bold text-5xl	mt-2">Vinicius José</h1>
+      <h1 className="font-bold text-5xl	mt-2 text-purple01">Vinicius José</h1>
       <p className="font-light text-xl">Desenvolverdor Front end <span>{` < /> `}</span></p>
      </div>
     </section>
