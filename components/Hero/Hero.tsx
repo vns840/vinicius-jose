@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero(){
   return(
-    <section className="flex items-center justify-center" id="hero"> 
+    <section className="flex items-center justify-center max-md:flex-col max-md:h-auto" id="hero"> 
      <div className="justify-start w-[50%]">
       <Image src="/images/programming-hero.svg" width={500} height={500} alt="" />
      </div>
