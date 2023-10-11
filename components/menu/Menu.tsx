@@ -3,7 +3,7 @@ export default function Menu(){
     <header>
       <nav className="main-menu flex justify-between items-center text-white px-[35px] bg-purple02 shadow-lg shadow-purple01/40">
         <a href="#hero" >
-          logo
+          {" < Vj />"}
         </a>
         <ul className="flex gap-2">
           <li>

@@ -45,7 +45,7 @@ export default function Contato(){
             </li>
             <li className="flex justify-start items-center mb-2">
               <Image src="logos/logo-document.svg" width={40} height={40} alt="" />
-              <a className="ml-3" target="_blank" href="">curriculo</a>
+              <a className="ml-3" target="_blank" href="https://drive.google.com/file/d/1fLboakwhMLFl8CGQfWpNtKyAXVqCzSNZ/view?usp=sharing">curriculo</a>
             </li>
           </ul>
         </div>
