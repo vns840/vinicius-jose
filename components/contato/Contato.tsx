@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Contato(){
   return(
     <section className="max-md:h-auto" id="contato">
-      <h2 className="text-center font-bold text-5xl mb-16 text-purple01 capitalize">contato</h2>
+      <h2 className="text-center font-bold text-5xl mb-18 text-purple01 capitalize">contato</h2>
       <div className="flex justify-center items-center gap-16 max-md:flex-col max-md:p-5">
         <div>
           <Image src="/images/contact.svg" width={500} height={500} alt="" />
