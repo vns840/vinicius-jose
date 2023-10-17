@@ -12,7 +12,7 @@ export default function Contato(){
           <h3 className="text-purple01 text-2xl mb-2 font-medium">Me encontre por aqui</h3>
           <ul className="capitalize text-purple01">
             <li className="flex justify-start items-center mb-2">
-              <Image src="/logos/logo-whatsapp.svg" width={40} height={40} alt="" />
+              <Image src="/logos/icons-whatsapp.svg" width={40} height={40} alt="logo Whatsapp" />
               <a className="ml-3" target="_blank" href="https://api.whatsapp.com/send?phone=5511977861210">whatsApp</a>
             </li>
             <li className="flex justify-start items-center mb-2">
