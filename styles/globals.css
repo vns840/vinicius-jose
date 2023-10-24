@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar{
+  width: 12px;
+}
+::-webkit-scrollbar-track{
+  background-color: #FFF5E0;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 4px;
+  background-color: #120f31;
+}
+
 .main-menu {
   position: absolute;
   top: 0;
@@ -14,4 +25,11 @@
 section{
   height: 100vh;
   padding: 90px 0;
+}
+.menu li{
+  transition: 1s;
+}
+.menu li:hover{
+  transform: translate(-15px, -15px);
+  color:#120f31;
 }

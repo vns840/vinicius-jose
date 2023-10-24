@@ -1,11 +1,13 @@
+import Image from "next/image";
+
 export default function Menu(){
   return(
     <header>
       <nav className="main-menu flex justify-between items-center text-white px-[35px] bg-purple02 shadow-lg shadow-purple01/40">
         <a href="#hero" >
-          {" < Vj />"}
+          <Image src="/favicon.svg" width={55} height={55}  alt="logo Vinicius José" />
         </a>
-        <ul className="flex gap-2">
+        <ul className="menu flex gap-3">
           <li>
             <a href="#servicos">serviços</a>
           </li>
